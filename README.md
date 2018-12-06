@@ -1,1 +1,1 @@
-# photo-provider
+# photo-service
